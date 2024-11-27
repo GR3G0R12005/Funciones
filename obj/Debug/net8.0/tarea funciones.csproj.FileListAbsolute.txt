@@ -1,0 +1,14 @@
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\bin\Debug\net8.0\tarea funciones.exe
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\bin\Debug\net8.0\tarea funciones.deps.json
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\bin\Debug\net8.0\tarea funciones.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\bin\Debug\net8.0\tarea funciones.dll
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\bin\Debug\net8.0\tarea funciones.pdb
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\tarea funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\tarea funciones.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\tarea funciones.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\tarea funciones.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\tarea funciones.dll
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\refint\tarea funciones.dll
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\tarea funciones.pdb
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\tarea funciones.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\tarea funciones\obj\Debug\net8.0\ref\tarea funciones.dll
